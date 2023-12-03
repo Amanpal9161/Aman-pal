@@ -1,2 +1,2 @@
-# Aman-pal
+# AmanPal-demo
 This is my first github repository
